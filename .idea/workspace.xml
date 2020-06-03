@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c2eIqEP2kfiJaoW5nfLINDV1vc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590117829630" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunManager" selected="Application.LoginPage">
+    <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.LoginPage" />
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginPage" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginPage" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="" />
+      <created>1589731038722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589731038722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1590322918068">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="371" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1590322918068" />
+    <state x="531" y="73" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1590389081123">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="531" y="73" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1360.728@0.0.1360.728" timestamp="1590389081123" />
+    <state x="384" y="46" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1589769052620">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="384" y="46" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1360.728@0.0.1360.728" timestamp="1589769052620" />
+    <state x="476" y="247" width="407" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589966946045">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="476" y="247" width="407" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1589966946045" />
+    <state x="336" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590316272800">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.728@0.0.1360.728" timestamp="1590316272800" />
+    <state x="410" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590249580467">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1590249580467" />
+    <state x="481" y="72" key="FileChooserDialogImpl" timestamp="1590389010087">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="481" y="72" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1590389010087" />
+    <state width="1316" height="67" key="GridCell.Tab.0.bottom" timestamp="1590644644050">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="67" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
+    <state width="1316" height="67" key="GridCell.Tab.0.center" timestamp="1590644644050">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="67" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
+    <state width="1316" height="67" key="GridCell.Tab.0.left" timestamp="1590644644050">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="67" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
+    <state width="1316" height="67" key="GridCell.Tab.0.right" timestamp="1590644644050">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="67" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
+    <state width="1316" height="95" key="GridCell.Tab.1.bottom" timestamp="1590314507922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="95" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590314507922" />
+    <state width="1316" height="95" key="GridCell.Tab.1.center" timestamp="1590314507921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="95" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590314507921" />
+    <state width="1316" height="95" key="GridCell.Tab.1.left" timestamp="1590314507921">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="95" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590314507921" />
+    <state width="1316" height="95" key="GridCell.Tab.1.right" timestamp="1590314507922">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="95" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590314507922" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1590389082992">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1590389082992" />
+    <state x="559" y="157" key="UIDesigner.ListEditorDialog" timestamp="1590156849221">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="559" y="157" key="UIDesigner.ListEditorDialog/0.0.1360.728@0.0.1360.728" timestamp="1590156849221" />
+    <state width="688" height="372" key="XDebugger.FullValuePopup" timestamp="1589981316040">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1589981316040" />
+    <state x="386" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1590054367562">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="386" y="0" key="refactoring.ChangeSignatureDialog/0.0.1360.728@0.0.1360.728" timestamp="1590054367562" />
+    <state x="336" y="157" key="run.anything.popup" timestamp="1590314132689">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="157" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1590314132689" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gui/LoginPage.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prog/FileHandler.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mainDriver</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
