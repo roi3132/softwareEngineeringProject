@@ -14,3 +14,35 @@ public class ShoppingCart implements Serializable {
         this.cartId = cartId;
         this.cartItems = new ArrayList<Product>();
     }
+
+    public String getCartId() {
+        return cartId;
+    }
+
+    public ArrayList<Product> getCartItemsArrayList() {
+        return cartItems;
+    }
+
+    public void setCartItems(ArrayList<Product> cartItems) {
+        this.cartItems = cartItems;
+    }
+
+    public void addCartItem(Product cartItem){
+        this.cartItems.add(cartItem);
+    }
+
+    public void removeFromCart(Product cartItem){
+        this.cartItems.remove(cartItem);
+    }
+    public void updateQuantity(){
+
+    }
+
+    public void viewCartDetails(){
+
+    }
+
+    public void checkOut(){
+
+    }
+}
