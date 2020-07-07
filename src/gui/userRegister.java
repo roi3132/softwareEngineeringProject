@@ -73,7 +73,6 @@ public class userRegister extends JFrame {
                     LoginPage.getMainDriver().getPersonArrayList().add(client);
                     System.out.println(client.toString());
                     JOptionPane.showMessageDialog(panel, "Registered Successfully");
-                    resetFields();
                 }
 
             }

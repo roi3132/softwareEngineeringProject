@@ -17,14 +17,14 @@
   <component name="ProjectId" id="1c2eIqEP2kfiJaoW5nfLINDV1vc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590117829630" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
@@ -61,18 +61,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,6 +75,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="99" key="#Project_Structure" timestamp="1594147298383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1594147298383" />
     <state x="371" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1590322918068">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -147,6 +139,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1316" height="95" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590314507922" />
+    <state x="620" y="240" key="GuiDesigner.FormSource.Dialog" timestamp="1594146987824">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="620" y="240" key="GuiDesigner.FormSource.Dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1594146987824" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1590389082992">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -159,6 +155,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1589981316040" />
+    <state x="667" y="124" width="585" height="801" key="find.popup" timestamp="1594147287530">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="124" width="585" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1594147287530" />
     <state x="386" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1590054367562">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -171,11 +171,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gui/LoginPage.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/prog/FileHandler.java</url>
           <line>11</line>

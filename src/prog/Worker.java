@@ -7,7 +7,7 @@ public class Worker extends Person {
     protected double salesSum;
     protected String branchId;
 
-    public Worker(int id, String address, Gender gender, String email, String firstName, String lastName, String password, AccessLevel accessLevel, String userName) {
+    public Worker(String id, String address, Gender gender, String email, String firstName, String lastName, String password, AccessLevel accessLevel, String userName) {
         super(id, address, gender, email, firstName, lastName, password, accessLevel, userName);
         this.isManager=false;
         this.accessLevel=AccessLevel.WORKER;
@@ -61,6 +61,13 @@ public class Worker extends Person {
 
     }
 
+	@Override
+	public String toString() {
+//		return "Worker id= " + id + ", address= " + address + ", gender= " + gender
+//				+ ", firstName= " + firstName + ", lastName= " + lastName ;
+		return String.format( "Worker ID: %-10s Address: %-15s First Name: %-15s Last Name: %-15s",id,address,firstName,lastName );
+	}
+    
+
 
 }
-
