@@ -6,7 +6,7 @@ public class Worker extends Person {
     protected double salary;
     protected double salesSum;
     protected String branchId;
-
+    // 
     public Worker(String id, String address, Gender gender, String email, String firstName, String lastName, String password, AccessLevel accessLevel, String userName) {
         super(id, address, gender, email, firstName, lastName, password, accessLevel, userName);
         this.isManager=false;

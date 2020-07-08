@@ -18,11 +18,11 @@ public class WareHouse implements Serializable {
     public void setAddress(String address) {
         this.address = address;
     }
-
+    // returns the worker array list
     public ArrayList<Worker> getWorkerArrayList() {
         return workerArrayList;
     }
-
+    // setting the workers
     public void setWorkerArrayList(ArrayList<Worker> workerArrayList) {
         this.workerArrayList = workerArrayList;
     }
