@@ -9,7 +9,7 @@ public class Shop implements Serializable {
     private Manager manager;
     private ArrayList<Order> orderArrayList;
     private ShopStorage shopStorage;
-
+    // the constructor for the shop, creates a new shop with address and a storage
     public Shop(String address) {
         this.address = address;
         this.shopStorage = new ShopStorage();

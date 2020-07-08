@@ -13,7 +13,7 @@ public class Person implements Serializable {
     protected String password;
     protected AccessLevel accessLevel;
     private String userName;
-
+    // creates a new person, gets the details and put in accordingly
     public Person(String id, String address, Gender gender, String email, String firstName, String lastName, String password, AccessLevel accessLevel, String userName) {
         this.id = id;
         this.address = address;
@@ -25,56 +25,56 @@ public class Person implements Serializable {
         this.accessLevel = accessLevel;
         this.userName = userName;
     }
-
+    // setting an ID to the person
     public void setId(String id) {
         this.id = id;
     }
-
+    // setting first name for the person
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
-
+    // return the gender for the person
     public Gender getGender() {
         return gender;
     }
-
+    // setting the gender for the person
     public void setGender(Gender gender) {
         this.gender = gender;
     }
-
+    // setting the address
     public void setAddress(String address) {
         this.address = address;
     }
-
+    // setting the phone number
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
-
+    // setting the email
     public void setEmail(String email) {
         this.email = email;
     }
 
-
+    // set the last name of the person
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-
+    // setting the password of the person in order to connect to the project
     public void setPassword(String password) {
         this.password = password;
     }
-
+    // returns the ID for the person
     public String getId() {
         return id;
     }
-
+    // returns the address for the person
     public String getAddress() {
         return address;
     }
-
+    // get the phone number of the person
     public String getPhoneNumber() {
         return phoneNumber;
     }
-
+    // get the email
     public String getEmail() {
         return email;
     }
@@ -110,11 +110,12 @@ public class Person implements Serializable {
     public AccessLevel getAccessLevel() {
         return accessLevel;
     }
-
+    // setting the access lever for the person, whether he is a client, worker or manager
     public void setAccessLevel(AccessLevel accessLevel) {
         this.accessLevel = accessLevel;
     }
 
+    // takes all the parameters for person and convert it to string
     @Override
     public String toString() {
         return "Person{" +
