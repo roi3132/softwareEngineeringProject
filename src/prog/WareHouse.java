@@ -18,7 +18,7 @@ public class WareHouse implements Serializable {
     public void setAddress(String address) {
         this.address = address;
     }
-    
+
     public ArrayList<Worker> getWorkerArrayList() {
         return workerArrayList;
     }
