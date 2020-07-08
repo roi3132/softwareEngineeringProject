@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/prog/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/MainDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/MainDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,17 +175,6 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="157" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1590314132689" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/prog/FileHandler.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

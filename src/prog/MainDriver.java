@@ -12,7 +12,7 @@ public  class MainDriver implements Serializable {
     private Person currentUser;
     private Shop shop;
 
-
+    // creates all the lists for clients,workers,managers etc..
     public MainDriver() {
         this.clientArrayList = new ArrayList<Client>();
         this.workerArrayList = new ArrayList<Worker>();

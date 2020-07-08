@@ -3,7 +3,7 @@ package prog;
 import java.io.*;
 
 public class FileHandler {
-
+    // writing to file, opens a new file and put the data in the file
     public void writeToFile(MainDriver mainDriver){
         FileOutputStream fout = null;
         try {
