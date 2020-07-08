@@ -10,15 +10,15 @@ public class WareHouse implements Serializable {
     private ArrayList<Shop> shopArrayList;
     private ArrayList<Product> productArrayList;
     private double amount;
-
+    // returns the address of the warehouse
     public String getAddress() {
         return address;
     }
-
+    // setting the address for the warehouse
     public void setAddress(String address) {
         this.address = address;
     }
-
+    
     public ArrayList<Worker> getWorkerArrayList() {
         return workerArrayList;
     }

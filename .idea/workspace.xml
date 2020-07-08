@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/prog/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/ShopStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/ShopStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog/WareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/WareHouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1594225983499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1594225983499" />
     <state x="440" y="99" key="#Project_Structure" timestamp="1594148914061">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
