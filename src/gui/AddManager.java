@@ -27,7 +27,7 @@ public class AddManager extends JFrame {
     private JPasswordField passwordVerification;
     private JButton submit;
     private JButton reset;
-
+	// a constructor for the manager
     public AddManager(JFrame previousWindow) {
 
         addWindowListener(new WindowAdapter() {
