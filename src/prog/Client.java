@@ -28,6 +28,7 @@ public class Client extends Person {
         this.currentShoppingCart = currentShoppingCart;
     }
 
+
     // other function for future use (if needed)
     public void addProductToCart(){};
 

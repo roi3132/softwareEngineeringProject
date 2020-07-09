@@ -13,6 +13,7 @@ public class Worker extends Person {
         this.accessLevel=AccessLevel.WORKER;
     }
 
+
     protected enum status{AVAILABLE,ONLEAVE};
     protected boolean isManager;
 

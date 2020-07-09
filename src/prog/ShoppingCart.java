@@ -14,6 +14,7 @@ public class ShoppingCart implements Serializable {
         this.cartId = cartId;
         this.cartItems = new ArrayList<Product>();
     }
+
     // returns the current cart ID
     public String getCartId() {
         return cartId;

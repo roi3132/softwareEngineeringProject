@@ -34,6 +34,7 @@ public class Shop implements Serializable {
     public Manager getManager() {
         return manager;
     }
+
     // setting the manager for the shop
     public void setManager(Manager manager) {
         this.manager = manager;

@@ -27,6 +27,7 @@ public class WareHouse implements Serializable {
         this.workerArrayList = workerArrayList;
     }
 
+
     public Manager getManager() {
         return manager;
     }

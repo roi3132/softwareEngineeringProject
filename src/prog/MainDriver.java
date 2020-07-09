@@ -21,6 +21,7 @@ public  class MainDriver implements Serializable {
         this.warehouseProductList = new ArrayList<Product>();
         this.shop = new Shop("Florida");
 
+
 //        Product product1 = new Product("KeyBoard","101",700,15);
 //        Product product2 = new Product("Mouse","102",500,10);
 //        Product product3 = new Product("Speaker","103",1500,45);

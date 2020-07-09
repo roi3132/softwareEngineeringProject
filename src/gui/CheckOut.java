@@ -23,6 +23,7 @@ public class CheckOut extends JFrame {
 
     public CheckOut(JFrame previousWindow) {
 
+
         this.previousWindow = previousWindow;
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         this.setContentPane(panel1);

@@ -43,6 +43,7 @@ public class Order implements Serializable {
     public String getCustomerId() {
         return customerId;
     }
+
     // set the customer ID for the order
     public void setCustomerId(String customerId) {
         this.customerId = customerId;

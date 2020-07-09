@@ -26,6 +26,8 @@ public class ShopStorage implements Serializable {
         this.productArrayList.remove(product);
         this.wareHouse.getProductArrayList().add(product);
     }
+
+
     // checks if the product is in the shop storage
     public boolean isProductionShop(Product product){
         for(Product product1:productArrayList){
