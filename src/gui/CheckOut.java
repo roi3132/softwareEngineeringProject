@@ -3,11 +3,14 @@ package gui;
 import com.intellij.uiDesigner.core.GridConstraints;
 import com.intellij.uiDesigner.core.GridLayoutManager;
 import prog.Client;
+import prog.Product;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.util.ArrayList;
+import java.util.Vector;
 
 public class CheckOut extends JFrame {
     private JList checkOutList;
@@ -16,6 +19,7 @@ public class CheckOut extends JFrame {
     private JTextField totalAmountUSDTextField;
     private JFrame previousWindow;
     private Client client;
+    private ArrayList<Product> currentCheckoutProductList;
 
     public CheckOut(JFrame previousWindow) {
 
@@ -36,17 +40,7 @@ public class CheckOut extends JFrame {
             }
         });
 
-        if (!client.getCurrentShoppingCart().getCartItemsArrayList().isEmpty()) {
-            checkOutList.setListData(client.getCurrentShoppingCart().getCartItemsArrayList().toArray());
-            double total = this.calculateTotal();
-            this.totalAmountText.setText(Double.toString(total));
-        } else {
-            String[] strings = new String[1];
-            strings[0] = "No Any Items in your cart.";
-
-            checkOutList.setListData(strings);
-            this.totalAmountUSDTextField.setText("Please Add Items");
-        }
+        setCheckoutProducts();
 
 
     }
@@ -58,6 +52,27 @@ public class CheckOut extends JFrame {
                     client.getCurrentShoppingCart().getCartItemsArrayList().get(i).getPrice();
         }
         return total;
+    }
+
+    private void setCheckoutProducts() {
+        if (!client.getCurrentShoppingCart().getCartItemsArrayList().isEmpty()) {
+            this.currentCheckoutProductList = client.getCurrentShoppingCart().getCartItemsArrayList();
+            Vector<String> CheckOutList = new Vector<String>();
+            CheckOutList.addElement(String.format("%-10s %-15s %-15s %-15s", "ID", "Product", "Price(USD)", "Quantity"));
+
+            for (int i = 0; i < currentCheckoutProductList.size(); i++) {
+                CheckOutList.addElement(currentCheckoutProductList.get(i).toString());
+            }
+            checkOutList.setListData(CheckOutList);
+            double total = this.calculateTotal();
+            this.totalAmountText.setText(Double.toString(total));
+        } else {
+            String[] strings = new String[1];
+            strings[0] = "No Any Items in your cart.";
+
+            checkOutList.setListData(strings);
+            this.totalAmountUSDTextField.setText("Please Add Items");
+        }
     }
 
     {
