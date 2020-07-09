@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/prog/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog/TestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/app/META-INF/app.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
@@ -74,7 +76,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.runtest">
+  <component name="RunManager" selected="Application.LoginPage">
     <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.LoginPage" />
       <module name="app" />
@@ -142,6 +144,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1594225983499">
@@ -264,10 +267,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1589981316040" />
-    <state x="376" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594297789792">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="564" y="355" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594315039297">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="376" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1594297789792" />
+    <state x="564" y="355" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1594315039297" />
     <state x="412" y="15" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594290032031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
