@@ -3,36 +3,7 @@ package prog;
 import static org.junit.jupiter.api.Assertions.*;
 
 class TestCases {
-
-
-//    Product product2 = new Product("Mouse", "102", 500, 10);
-//    Product product3 = new Product("Speaker", "103", 1500, 45);
-//
-//    this.shop.getShopStorage().
-//
-//    addProduct(product1);
-//    this.shop.getShopStorage().
-//
-//    addProduct(product2);
-//    this.shop.getShopStorage().
-//
-//    addProduct(product3);
-//
-//
-//    Manager sampleManager = new Manager("1", "sample", Gender.MALE, "sample", "Manager",
-//            "sample1", "manager", AccessLevel.MANAGER, "manager");
-//    this.personArrayList.add(sampleManager);
-//    this.managerArrayList.add(sampleManager);
-//
-//    Worker worker = new Worker("2", "sample", Gender.MALE, "sample", "sample", "sample", "worker", AccessLevel.WORKER, "worker");
-//    this.personArrayList.add(worker);
-//    this.workerArrayList.add(worker);
-//
-//    Client client = new Client("22", "sample", Gender.MALE, "sample", "sample",
-//            "sampleClient", "client", AccessLevel.CLIENT, "client");
-//    this.personArrayList.add(client);
-//    this.clientArrayList.add(client);
-
+    
     @org.junit.jupiter.api.Test
 //test salary
     void setSalary() {
