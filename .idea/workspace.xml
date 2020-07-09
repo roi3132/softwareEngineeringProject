@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b58d7126-b4a5-4d92-9cc4-c37cbe81ae86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/gui/CheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog/TestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -25,16 +50,34 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590117829630" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
-  <component name="RunManager" selected="Application.LoginPage">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="prog" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.runtest">
     <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.LoginPage" />
       <module name="app" />
@@ -55,9 +98,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="runtest" type="JUnit" factoryName="JUnit">
+      <module name="app" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="prog" />
+      <option name="MAIN_CLASS_NAME" value="prog.TestCases" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.LoginPage" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.runtest" />
     </list>
     <recent_temporary>
       <list>
@@ -79,6 +135,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1594225983499">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -88,10 +155,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1594148914061" />
+    <state x="23" y="10" width="1001" height="629" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594302149469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="23" y="10" width="1001" height="629" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594302149469" />
+    <state x="287" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1594289763434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="287" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1594289763434" />
     <state x="371" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1590322918068">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="371" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1590322918068" />
+    <state x="344" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594298089952">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="344" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1594298089952" />
     <state x="531" y="73" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1590389081123">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -112,31 +191,39 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="410" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1590249580467" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1594310397873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1594310397873" />
     <state x="481" y="72" key="FileChooserDialogImpl" timestamp="1590389010087">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="481" y="72" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1590389010087" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594284784334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1594312800916">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594312800916" />
     <state width="1316" height="67" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594284784334" />
     <state width="1877" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594280670215" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594284784333">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1594312800916">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594312800916" />
     <state width="1316" height="67" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594284784333" />
     <state width="1877" height="340" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594280670215" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594284784333">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1594312800916">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594312800916" />
     <state width="1316" height="67" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594284784333" />
     <state width="1877" height="340" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594280670215" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594284784334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1594312800916">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594312800916" />
     <state width="1316" height="67" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590644644050" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594284784334" />
     <state width="1877" height="340" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594280670215" />
@@ -164,6 +251,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="620" y="240" key="GuiDesigner.FormSource.Dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1594146987824" />
+    <state x="380" y="61" key="RollbackChangesDialog" timestamp="1594289136844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="380" y="61" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1594289136844" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1590389082992">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -176,6 +267,14 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1589981316040" />
+    <state x="376" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594297789792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1594297789792" />
+    <state x="412" y="15" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594290032031">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="15" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1594290032031" />
     <state x="667" y="124" width="585" height="801" key="find.popup" timestamp="1594147287530">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -188,6 +287,13 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="157" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1590314132689" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594290470733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594290470733" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/softwareEngineeringProject$runtest.ic" NAME="runtest Coverage Results" MODIFIED="1594298186197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
